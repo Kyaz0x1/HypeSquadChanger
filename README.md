@@ -2,7 +2,7 @@
 Program designed to change the hypesquad of discord
 
 ### Demo
-<img src="img/HypeSquadChnnger.png" />
+<img src="img/HypeSquadChanger.png" />
 
 ### Project information
 |Name| HypeSquadChanger |
